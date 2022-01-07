@@ -7,7 +7,7 @@
 
 ![Image text](https://github.com/flyto22c/knowledge-handbook/blob/main/OneNoteCSData/README/version.png)
 
-3、打开后大致结构。
+3、打开后文档结构。
 
 ![Image text](https://github.com/flyto22c/knowledge-handbook/blob/main/OneNoteCSData/README/demo.png)
 
